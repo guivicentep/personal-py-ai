@@ -64,3 +64,7 @@
   - Boosting: Treina modelos sequencialmente, onde cada novo modelo tenta corrigir os erros do modelo anterior. Ex: LightGBM e XGBoost
   - Stacking: Combina as previsões de vários modelos usando um modelo de meta-aprendizado. O modelo de meta-aprendizado é treinado para aprender como combinar as previsões dos modelos base.
   - Voting: Combina as previsões de vários modelos usando um processo de votação. O modelo final é o que recebe mais votos.
+
+# Estrutura de Projetos de IA/ML
+  - A adoção de uma metodologia para projetos de IA/ML é essencial para estruturar e padronizar o processo de desenvolvimento, assegurando que cada fase seja abordada de forma sintética e abrangente. Uma abordagem metódica não só facilita a identificação e correção de falhas, como o overfitting, mas também promove a reprodutibilidade, permitindo que outros cientistas e engenheiros de dados repliquem o trabalho com facilidade.
+  - Além disso, essa estruturação otimiza a iteração e o aprimoramento do modelo, e facilita a documentação e a comunicação com as partes interessadas, garantindo transparência, colaboração e eficiência ao longo de todo o projeto.
